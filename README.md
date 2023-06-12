@@ -4,7 +4,7 @@ Title: Market Analysis of Data for Cryptocurrencies (MADC)
 
 Authors:
 
-Shagun Saboo, Amritanj Ayush, Parthasarathy Murugesan, Shweta Mishra
+Subhash Chandran Shankarkumar, Parthasarathy Murugesan
 
 Summary:
 
